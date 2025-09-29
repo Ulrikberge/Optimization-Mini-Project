@@ -1,5 +1,5 @@
 # Solution for model Task2_Switching_Stations
-# Objective value = 57301741.6947411
+# Objective value = 6.6696434429451264e+07
 Q_Czestochowa_Opole 0
 Q_Czestochowa_Kielce 200
 Q_Czestochowa_Warsaw 78
@@ -9,30 +9,30 @@ Q_Lodz_Warsaw 1.2680000000000001e+02
 Q_Walbrzych_Opole 129
 Q_Walbrzych_Kielce 0
 Q_Walbrzych_Warsaw 0
+Q_Wroclaw_Opole 133
+Q_Wroclaw_Kielce 0
+Q_Wroclaw_Warsaw 0
 Q_Poznan_Opole 0
 Q_Poznan_Kielce 1.0081755986218730e+02
 Q_Poznan_Warsaw 1.5018244013781270e+02
-Q_Zielona_Gora_Opole 5.7354274684018861e+01
-Q_Zielona_Gora_Kielce 8.38244013781275
+Q_Zielona_Gora_Opole 1.3490031273748350e+01
+Q_Zielona_Gora_Kielce 5.2246683548083261e+01
 Q_Zielona_Gora_Warsaw 5.5263285178168395e+01
-Q_Piotrkow_Opole 0
-Q_Piotrkow_Kielce 139
-Q_Piotrkow_Warsaw 0
-Q_Skierniewice_Opole 0
-Q_Skierniewice_Kielce 0
-Q_Skierniewice_Warsaw 197
+Q_Katowice_Opole 6.1109968726251680e+01
+Q_Katowice_Kielce 200
+Q_Katowice_Warsaw 1.8900312737483205e+00
 Q_Bytom_Opole 0
 Q_Bytom_Kielce 163
 Q_Bytom_Warsaw 0
 Q_Wodzislaw_Slaski_Opole 0
 Q_Wodzislaw_Slaski_Kielce 119
 Q_Wodzislaw_Slaski_Warsaw 0
-Q_Katowice_Opole 1.7245725315981161e+01
-Q_Katowice_Kielce 200
-Q_Katowice_Warsaw 4.5754274684018839e+01
-Q_Wroclaw_Opole 133
-Q_Wroclaw_Kielce 0
-Q_Wroclaw_Warsaw 0
+Q_Sieradz_Opole 0
+Q_Sieradz_Kielce 5.9135756589729453e+01
+Q_Sieradz_Warsaw 1.1886424341027055e+02
+Q_Konin_Opole 0
+Q_Konin_Kielce 36
+Q_Konin_Warsaw 200
 Q_Sosnowiec_Opole 0
 Q_Sosnowiec_Kielce 143
 Q_Sosnowiec_Warsaw 0
